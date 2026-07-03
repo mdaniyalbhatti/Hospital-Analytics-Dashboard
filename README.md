@@ -46,7 +46,7 @@ The dashboard helps analyze hospital performance through interactive KPIs, chart
 
 ## 📷 Dashboard Preview
 
-*(Upload your dashboard screenshot here.)*
+![Hospital Dashboard](Images/Images.png)
 
 ---
 
