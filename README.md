@@ -46,7 +46,7 @@ The dashboard helps analyze hospital performance through interactive KPIs, chart
 
 ## 📷 Dashboard Preview
 
-![hospital github](Images/Images.png)
+=[Dashboard]("E:\Dashboard\Images.jpeg")
 
 ---
 
