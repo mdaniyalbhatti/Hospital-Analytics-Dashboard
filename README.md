@@ -55,4 +55,4 @@ The dashboard helps analyze hospital performance through interactive KPIs, chart
 **Muhammad Daniyal Bhatti**
 
 🔗 LinkedIn: [Muhammad Daniyal Bhatti](https://www.linkedin.com/in/m-daniyal-bhatti-023849331/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJBz2lzVAT52e3hTHNL4IcQ%3D%3D)
-GitHub:
+GitHub:[mdaniyalbhatti](https://github.com/mdaniyalbhatti)
