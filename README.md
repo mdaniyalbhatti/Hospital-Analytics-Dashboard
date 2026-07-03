@@ -1,6 +1,6 @@
-# 🏥 MediVision Hospital Analytics Dashboard
+ 🏥 MediVision Hospital Analytics Dashboard
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 This project is an interactive Hospital Analytics Dashboard developed using Microsoft Power BI.
 
@@ -8,7 +8,7 @@ The dashboard helps analyze hospital performance through interactive KPIs, chart
 
 ---
 
-## 📊 Dashboard Features
+ 📊 Dashboard Features
 
 - Total Patients KPI
 - Treatment Cost Analysis
@@ -23,7 +23,7 @@ The dashboard helps analyze hospital performance through interactive KPIs, chart
 
 ---
 
-## 🛠 Tools Used
+ 🛠 Tools Used
 
 - Microsoft Power BI
 - Power Query
@@ -33,7 +33,7 @@ The dashboard helps analyze hospital performance through interactive KPIs, chart
 
 ---
 
-## 📈 Skills Demonstrated
+  📈 Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -44,13 +44,13 @@ The dashboard helps analyze hospital performance through interactive KPIs, chart
 
 ---
 
-## 📷 Dashboard Preview
+ 📷 Dashboard Preview
 
 ![Hospital Dashboard](Dashboard.jpeg.jpeg)
 
 ---
 
-## 👨‍💻 Developed By
+ 👨‍💻 Developed By
 
 **Muhammad Daniyal Bhatti**
 
